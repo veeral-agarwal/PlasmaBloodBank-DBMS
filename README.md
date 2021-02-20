@@ -28,3 +28,7 @@ Functionalities:
 12. Supervisor List
 13. Add Transaction Details
 14. Logout
+
+## Team:
+* [Veeral Agarwal](https://github.com/veeral-agarwal)
+* [Kshitij Mishra](https://github.com/mishrakshitij15)
