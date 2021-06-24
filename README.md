@@ -32,4 +32,4 @@ Functionalities:
 ## Team:
 * [Veeral Agarwal](https://github.com/veeral-agarwal)
 * [Kshitij Mishra](https://github.com/mishrakshitij15)
-* [Prateek Patel](https://github.com/DaVinci-00)
+
